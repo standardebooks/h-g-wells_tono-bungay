@@ -41,3 +41,7 @@ header{
 #chapter-3-1-5 blockquote p{
 	text-align: center;
 }
+
+#chapter-3-1-5 blockquote li p{
+	text-align: left;
+}
