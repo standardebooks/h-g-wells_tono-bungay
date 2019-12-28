@@ -29,11 +29,10 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Tono-Bungay</dc:title>
 		<meta property="file-as" refines="#title">Tono-Bungay</meta>
-		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Satire</dc:subject>
-		<dc:subject id="subject-3">England -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Patent medicines -- Marketing -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Pharmaceutical industry -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Satire</dc:subject>
+		<dc:subject id="subject-2">England -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Patent medicines -- Marketing -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Pharmaceutical industry -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -41,41 +40,46 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="authority" refines="#subject-5">LCSH</meta>
-		<meta property="term" refines="#subject-5">sh2008109166</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONG_DESCRIPTION
-		]]></meta>
+		<meta property="term" refines="#subject-4">sh2008109166</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A poor boy, the son of a servant, rises to fortune on the back of his uncle’s patent-medicine scheme.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Tono-Bungay&lt;/i&gt;, published in 1909, is a semi-autobiographical novel by H. G. Wells. Though it has some fantastical and absurdist elements, it is a realist novel rather than one of Well’s “scientific romances.”&lt;/p&gt;
+			&lt;p&gt;The novel is written in the first person from the point of view of George Ponderevo, the son of the housekeeper at a large estate. He is made to feel his inferiority when he is banished after fighting with the son one of the owner’s aristocratic relatives, and is sent to live with his own poor but religiously fervent relatives. He can’t abide or agree with their religious views and returns to his mother who sends him on to live with his Uncle, Edward Ponderevo, then a local pharmacist in a small town. Uncle Ponderevo, though, has grand plans, and eventually makes a fortune by selling a quack patent medicine he calls ‘Tono-Bungay’. George joins him in this endeavour and becomes rich himself, eventually turning his interests towards the new science of aeronautics. Meanwhile the Tono-Bungay scheme expands enormously and begins to topple towards its own destruction.&lt;/p&gt;
+			&lt;p&gt;Thoughout the novel, George comments cynically on England’s class system, the shabiness of commerce and the lies told in advertising. We also follow his unfortunate love life, his unwise marriage, his divorce, and his eventual reconnection with a woman he loved as a child.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Tono-Bungay&lt;/i&gt; met a mixed reception on first release, but has since come to be considered perhaps Wells’ finest realist novel, an assessment Wells himself shared.&lt;/p&gt;
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/718</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tono-Bungay</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-g-wells_tono-bungay</meta>
 		<dc:creator id="author">H. G. Wells</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Wells, H. G.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Herbert George Wells</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/H._G._Wells</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79063613</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist">Henry Alexander</dc:contributor>
+		<meta property="file-as" refines="#artist">Alexander, Henry</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Alexander_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr2004033824</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">John Bean; Diane Bean</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-1">John Bean</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Bean, John</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<dc:contributor id="transcriber-2">Diane Bean</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Bean, Diane</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -87,6 +91,7 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/illustration-1.svg" id="illustration-1.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-2.svg" id="illustration-2.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-3.svg" id="illustration-3.svg" media-type="image/svg+xml"/>
