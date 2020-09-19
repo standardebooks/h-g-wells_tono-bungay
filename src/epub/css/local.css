@@ -58,8 +58,3 @@ header{
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
-
-[epub|type~="z3998:poem"] + p,
-[epub|type~="z3998:poem"] + p{
-	text-indent: 0;
-}
