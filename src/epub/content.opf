@@ -64,9 +64,10 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
-		<dc:contributor id="artist">Henry Alexander</dc:contributor>
-		<meta property="file-as" refines="#artist">Alexander, Henry</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henry_Alexander_(painter)</meta>
+		<dc:contributor id="artist">Albert Edelfelt</dc:contributor>
+		<meta property="file-as" refines="#artist">Edelfelt, Albert</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Albert Gustaf Aristides Edelfelt</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Edelfelt</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr2004033824</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Bean</dc:contributor>
