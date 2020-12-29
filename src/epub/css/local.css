@@ -43,12 +43,12 @@ header{
 }
 
 #chapter-3-1-5 blockquote li p{
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:poem"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
