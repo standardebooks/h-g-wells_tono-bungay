@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-g-wells/tono-bungay</dc:identifier>
 		<dc:date>2019-12-29T23:29:25Z</dc:date>
@@ -44,13 +44,13 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008109166</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A poor boy, the son of a servant, rises to fortune on the back of his uncle’s patent-medicine scheme.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A poor boy, the son of a servant, rises to fortune on the back of his uncle’s patent-medicine scheme.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Tono-Bungay&lt;/i&gt;, published in 1909, is a semi-autobiographical novel by &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;&lt;abbr&gt;H. G.&lt;/abbr&gt; Wells&lt;/a&gt;. Though it has some fantastical and absurdist elements, it is a realist novel rather than one of Well’s “scientific romances.”&lt;/p&gt;
 			&lt;p&gt;The novel is written in the first person from the point of view of George Ponderevo, the son of the housekeeper at a large estate. He is made to feel his inferiority when he is banished after fighting with the son of one of the owner’s aristocratic relatives, and is sent to live with his own poor but religiously fervent relatives. He can’t abide or agree with their religious views and returns to his mother who sends him on to live with his Uncle, Edward Ponderevo, then a local pharmacist in a small town. Uncle Ponderevo, though, has grand plans, and eventually makes a fortune by selling a quack patent medicine he calls “Tono-Bungay.” George joins him in this endeavour and becomes rich himself, eventually turning his interests towards the new science of aeronautics. Meanwhile the Tono-Bungay scheme expands enormously and begins to topple towards its own destruction.&lt;/p&gt;
 			&lt;p&gt;Throughout the novel, George comments cynically on England’s class system, the shabbiness of commerce, and the lies told in advertising. We also follow his unfortunate love life, his unwise marriage, his divorce, and his eventual reconnection with a woman he loved as a child.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Tono-Bungay&lt;/i&gt; met with a mixed reception on first release, but has since come to be considered as perhaps Wells’ finest realist novel, an assessment Wells himself shared.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/718</dc:source>
 		<dc:source>https://archive.org/details/tonobungay01wellgoog</dc:source>
