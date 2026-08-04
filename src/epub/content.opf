@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008109166</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A poor boy, the son of a servant, rises to fortune on the back of his uncle’s patent-medicine scheme.</dc:abstract>
+		<meta property="schema:abstract">A poor boy, the son of a servant, rises to fortune on the back of his uncle’s patent-medicine scheme.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Tono-Bungay&lt;/i&gt;, published in 1909, is a semi-autobiographical novel by &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;&lt;abbr&gt;H. G.&lt;/abbr&gt; Wells&lt;/a&gt;. Though it has some fantastical and absurdist elements, it is a realist novel rather than one of Well’s “scientific romances.”&lt;/p&gt;
 			&lt;p&gt;The novel is written in the first person from the point of view of George Ponderevo, the son of the housekeeper at a large estate. He is made to feel his inferiority when he is banished after fighting with the son of one of the owner’s aristocratic relatives, and is sent to live with his own poor but religiously fervent relatives. He can’t abide or agree with their religious views and returns to his mother who sends him on to live with his Uncle, Edward Ponderevo, then a local pharmacist in a small town. Uncle Ponderevo, though, has grand plans, and eventually makes a fortune by selling a quack patent medicine he calls “Tono-Bungay.” George joins him in this endeavour and becomes rich himself, eventually turning his interests towards the new science of aeronautics. Meanwhile the Tono-Bungay scheme expands enormously and begins to topple towards its own destruction.&lt;/p&gt;
